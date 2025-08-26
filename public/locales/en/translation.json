@@ -1,0 +1,160 @@
+{
+  "navbar": {
+    "menu-title": "Menu",
+    "item1": "Home",
+    "item2": "About Us",
+    "item3": "Why Us",
+    "item4": "Our Services",
+    "item5": "Our Clients",
+    "item6": "Contact Us"
+  },
+  "navbar-mobile-menu": {
+    "item1": "Home",
+    "item2": "About Us",
+    "item3": "Why Us",
+    "item4": "Our Services",
+    "item5": "Our Clients",
+    "item6": "Contact Us"
+  },
+  "home": {
+    "section1": {
+      "title": "Intertransport & Logistics Co., Ltd."
+    },
+    "section2": {
+      "title": "Punctual & Prompt Delivery with Trustworthy Services",
+      "sub-title": "Intertransport & Logistics Co., Ltd.",
+      "content": "offers delivery services throughout Thailand for all kinds of goods. Safety is guaranteed with a 24-hour GPS tracking system and our long-time experience in logistics services. The company has been certified its quality services by Q-Mark and ISO9001:2015. Rest assured that your goods will receive high-quality, punctual transportation services in a competitive price.",
+      "address1": "Tel: 038-024-519, <mobile-block />Fax: 038-024-617, <mobile-block />Mobile: 089-665-6955",
+      "address2": "Email: natjaya@intertransport.co.th"
+    }
+  },
+  "about-us": {
+    "title": "About <secondary-color>Us</secondary-color>",
+    "paragraph": {
+      "paragraph1": "Intertransport and Logistics Co., Ltd. was established in 2004 with an authorized capital of 20 million Baht. Our office is located at 60/19 Sumnuk-I-Ngorn Rd. Mabkha, Nikompattana, Rayong 21180 Thailand.",
+      "paragraph2": "The company offers transportation services throughout Thailand with emphasis on quality, fastness and integrity in a competitive price. We also have goods insurance policies.",
+      "paragraph3": "Our team is well trained and experienced, and we never stop to utilize technology for better transportation service. With a growing list of prestigious customers, Intertransport and Logistics earns its position as one of the most successful transport companies in Thailand."
+    },
+    "anchor-point": {
+      "point1": "Our Vision",
+      "point2": "Corporate Policy",
+      "point3": "Quality Policy",
+      "point4": "Corporate CoC"
+    },
+    "content1": {
+      "title": "Our <secondary-color>Vision</secondary-color>",
+      "paragraph1": "Advancement in logistics system to an international level in all aspects",
+      "paragraph2": "- Customer Service, Punctuality and Safety"
+    },
+    "content2": {
+      "title": "Corporate <secondary-color>Policy</secondary-color>",
+      "item1": "Carry out transportation service from manufacturing plants (hirer) to the designated location with completeness, safety and punctuality.",
+      "item2": "Every employee must behave with honesty and respect to his or her profession.",
+      "item3": "Drivers must take into account the safety of goods and vehicle and the society.",
+      "item4": "Drivers must not take any drugs nor drink alcoholics when on duty.",
+      "item5": "Drivers must perform work with ethics and conduct, both to families and the society.",
+      "item6": "Every employee must not cause trouble to the community, such as refrain from making loud noises that cause nuisance to nearby communities.",
+      "item7": "Every employee must not cause any harmful effects to nearby community or company environment, such as discarding litters, batteries or vehicle tires."
+    },
+    "content3": {
+      "title": "Quality <secondary-color>Policy</secondary-color>",
+      "paragraph1": "We shall manage the company to meet global high-safety standards, with betterment of our employees and services quality by implementing and utilizing advanced technologies to maximize customer’s satisfaction"
+    },
+    "content4": {
+      "title": "Corporate Code of <secondary-color>Conduct</secondary-color>",
+      "item1": {
+        "title": "Reponsibility to Shareholders",
+        "list1": "Be good representatives of shareholders in operating the business for the shareholders' utmost satisfaction.",
+        "list2": "Perform work with honesty, ethics and conduct. ",
+        "list3": "Truthfully report the results of business operation and the conditions of the business completely and constantly.",
+        "list4": "Not seek for personal benefits to oneself or any related persons by using any data of Intertransport and Logistics Co., Ltd. that has not been disclosed to the public. ",
+        "list5": "Not disclose confidential data which might be of harm to Intertransport and Logistics Co., Ltd. to outside persons."
+      },
+      "item2": {
+        "title": "Responsibility to Clients",
+        "list1": "Carry out quailty service in reasonable price for the client's utmost satisfaction and maintain good and sustainable relations.",
+        "list2": "Shall the client receive any unfair treatments, the client can file a complaint via the satisfaction questionnaire.",
+        "list3": "Behave to every client equally with justice, carry out work with transparency and service mind, and have good manners."
+      },
+      "item3": {
+        "title": "Responsibility to Partners, Commercial Competitors and Commercial Creditors",
+        "list1": "Not ask for, receive nor give any commercially dishonest interest to partners, competitors and creditors.",
+        "list2": "If the company cannot comply to the conditions, the company must notify the partner, competitor and creditor in advance, to cooperate in finding solution to the problem.",
+        "list3": "Behave accordingly within the framework of good competitive regulations and not try to defame commercial competitors with false accusations.",
+        "list4": "Strictly maintain and comply to the conditions made with partners, competitors and officers, including payback, taking care of collateral and other conditions.",
+        "list5": "Report to officers in advance shall the company not be able to perform accordingly to the commitment in the contract and cooperate to find solution to the problem."
+      },
+      "item4": {
+        "title": "Responsibility to Employees",
+        "list1": "Give reasonable compensation and benefit to the employees and provide obligations for the employees to comply with.",
+        "list2": "Take good care of the work environments and ensure safety to the life and property of the employee.",
+        "list3": "Appointing, moving, rewarding and punishing the employee must be done with equality and honesty and based on the knowledge and skills, appropriateness and performance or actions of the employee.",
+        "list4": "Give importance to improving the skills and knowledge of each employee by constantly and thoroughly giving opportunities to the employees.",
+        "list5": "Listen to comments and suggestions from employees of all ranks and allow employees to inform about the company's illegal action to their supervisor.",
+        "list6": "Avoid administering with unfair actions which might affect the employee's work stability."
+      }
+    }
+  },
+  "why-us": {
+    "title": "Why <secondary-color>Us</secondary-color>",
+    "content": {
+      "paragraph1": {
+        "content": "<subtitle-text>Service Standard: </subtitle-text> Certified quality service by <secondary-color>Q-Mark</secondary-color> and <secondary-color>ISO 9001:2015</secondary-color>. We transport goods in correct location and punctually in reasonable price."
+      },
+      "paragraph2": {
+        "content": "<subtitle-text>Confidence: </subtitle-text> Every vehicle can be tracked with the <secondary-color>GPS Tracking system</secondary-color>. The company has a <secondary-color>goods insurance policy</secondary-color> and takes into account the nature of each client for utmost satisfaction."
+      },
+      "paragraph3": {
+        "content": "<subtitle-text>Management Team: </subtitle-text> With over 20 years of experience in administering transportation services, the management team is capable of utilizing the key points in management to utmost benefit."
+      }
+    }
+  },
+  "our-services": {
+    "title": "Our <secondary-color>Services</secondary-color>",
+    "content": {
+      "item1": {
+        "title": "<secondary-color>Ten-door Ten-wheeler Truck</secondary-color>",
+        "list1": "Interior size 2.40 x 7.20 x 2.50 m.",
+        "list2": "Load weight 15 ton"
+      },
+      "item2": {
+        "title": "<secondary-color>Ten-door Full-trailer</secondary-color>",
+        "list1": "Interior size 2.40 x 7.20 x 2.50 m.",
+        "list2": "Load weight 30 ton"
+      },
+      "item3": {
+        "title": "<secondary-color>Four-wheeler Pickup<br/> Truck with Rear door Container</secondary-color>",
+        "list1": "Interior size 1.70 x 2.36 x 1.70 m.",
+        "list2": "Load weight 2 ton"
+      },
+      "item4": {
+        "title": "<secondary-color>Semi-Trailer</secondary-color>",
+        "list1": "Flat bed size 2.45 x 12.40 m.",
+        "list2": "Load weight 33 ton"
+      }
+    }
+  },
+  "our-clients": {
+    "title": "Our <secondary-color>Clients</secondary-color>",
+    "client1": "PL Global Transport Co., Ltd. & GC Logistics Solutions Co., Ltd.",
+    "client2": "Thai Polyethylene Co., Ltd.",
+    "client3": "IRPC Public Co., Ltd.",
+    "client4": "Thai Shinkong Industry Corporation Co., Ltd.",
+    "client5": "HMC Polymers Co., Ltd.",
+    "client6": "Jotun Thailand Co., Ltd.",
+    "client7": "Petro Plus Chemical Co., Ltd.",
+    "client8": "Vicker Pigment Co., Ltd."
+  },
+  "contact-us": {
+    "title": "Contact <secondary-color>Us</secondary-color>",
+    "address": "<secondary-color>Intertransport and Logistics Co., Ltd.</secondary-color><br/>60/19 Sumnuk-I-Ngorn Rd. Mabkha,<br/>Nikompattana, Rayong 21180 Thailand.",
+    "telephone": "Tel: 038-024-519",
+    "mobilephone": "Mobile: 089-665-6955",
+    "fax": "Fax: 038-024-617",
+    "email": "Email: natjaya@intertransport.co.th"
+  },
+  "footer": {
+    "company-name": "Intertransport and Logistics Co., Ltd.",
+    "address": "60/19 Sumnuk-I-Ngorn Rd. Mabkha, Nikompattana, Rayong 21180 Thailand."
+  }
+}

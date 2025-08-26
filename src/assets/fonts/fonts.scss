@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "PlayfairDisplay-Regular";
+  src: url(./Playfair_Display/static/PlayfairDisplay-Regular.ttf);
+}
+@font-face {
+  font-family: "PlayfairDisplay-Medium";
+  src: url(./Playfair_Display/static/PlayfairDisplay-Medium.ttf);
+}
+@font-face {
+  font-family: "PlayfairDisplay-Bold";
+  src: url(./Playfair_Display/static/PlayfairDisplay-Bold.ttf);
+}
+@font-face {
+  font-family: "PlayfairDisplay-Italic";
+  src: url(./Playfair_Display/static/PlayfairDisplay-Italic.ttf);
+}
+
+@font-face {
+  font-family: "CloudLight";
+  src: url(./Cloud_Light/CloudLight.woff2) format("woff2"),
+    url(./Cloud_Light/CloudLight.woff) format("woff"),
+    url(./Cloud_Light/CloudLight.ttf) format("ttf");
+}
+
+@font-face {
+  font-family: "Cloud-Bold";
+  src: url(./Cloud_Light/Cloud-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Cloud-Semibold";
+  src: url(./Cloud_Light/Cloud-Semibold.ttf);
+}
+
+@font-face {
+  font-family: "TH-Sarabun-New";
+  src: url(./TH_Sarabun_New/TH-Sarabun-New.woff2) format("woff2"),
+    url(./TH_Sarabun_New/TH-Sarabun-New.woff) format("woff"),
+    url(./TH_Sarabun_New/TH-Sarabun-New.ttf) format("ttf");
+}
+
+@font-face {
+  font-family: "TH-Sarabun-New-Bold";
+  src: url(./TH_Sarabun_New/TH-Sarabun-New-Bold.ttf);
+}

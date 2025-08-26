@@ -1,0 +1,210 @@
+@import url(../assets/fonts/fonts.scss);
+@import "variables.scss";
+@import "ios-styles.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "TH-Sarabun-New";
+  font-size: var(--main-font-size);
+  color: black;
+  overflow-x: hidden;
+}
+
+img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+a,
+a:hover,
+a:active,
+a:visited,
+a:focus {
+  color: unset;
+  text-decoration: none;
+}
+
+section {
+  position: relative;
+}
+
+.inner {
+  width: 95%;
+  margin: 0 auto;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.line-break {
+  height: 5vh;
+}
+.intertransport-container {
+  position: relative;
+  max-width: 86vh;
+  margin: 0 auto;
+}
+subtitle-text {
+  color: rgb(47, 46, 46);
+  font-family: "TH-Sarabun-New-Bold";
+}
+secondary-color {
+  color: var(--secondary-color);
+}
+mobile-block {
+  display: inline-block;
+}
+.block {
+  display: block;
+}
+.main-title {
+  max-width: 102vh;
+  margin: 0 auto;
+  padding: 0 3vh;
+  .wrapper {
+    display: inline-block;
+    position: relative;
+    font-family: "CloudLight";
+    font-weight: bold;
+    font-size: 8.611vh;
+    letter-spacing: 0.3rem;
+    &:before {
+      content: "";
+      position: absolute;
+      top: -1vh;
+      left: -4vh;
+      width: 0.2vh;
+      height: 13vh;
+      background-color: var(--secondary-color);
+    }
+  }
+}
+
+.subpage-top-bg {
+  position: relative;
+  padding-top: 9vh;
+  height: 53vh;
+  .inner-bg {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 53vh;
+    background-size: cover !important;
+    background-position: unset !important;
+    background-repeat: no-repeat !important;
+  }
+}
+
+.map-container {
+  max-width: 50%;
+  height: 50vh;
+  margin: 0 auto;
+}
+
+body.lang-en {
+  .home-section1 {
+    .title {
+      font-family: "PlayfairDisplay-Regular";
+      font-weight: normal;
+    }
+  }
+  .home-section2 {
+    .text-title {
+      text-align: left !important;
+      padding-left: 4rem !important;
+    }
+    .text {
+      p {
+        line-height: 2.7rem;
+      }
+    }
+  }
+}
+
+// Photoswipe CSS
+.pswp__counter {
+  font-size: 1.5rem !important;
+}
+.pswp__img {
+  background-color: white !important;
+}
+
+@media (max-width: 1800px) {
+  .subpage-top-bg {
+    .inner-bg {
+      background-size: unset !important;
+    }
+  }
+}
+
+@media (max-width: 1200px) {
+  .main-title {
+    padding: 0 9vh;
+    .wrapper {
+      font-size: 4.9rem;
+    }
+  }
+  .intertransport-container {
+    padding: 0 1.5rem;
+  }
+  .map-container {
+    max-width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  .map-container {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 576px) {
+  .main-title {
+    padding: 0 7vh;
+    .wrapper {
+      font-size: 7vh;
+      &:before {
+        top: -0.5vh !important;
+        left: -4vh !important;
+        height: 100% !important;
+      }
+    }
+  }
+  .subpage-top-bg {
+    .inner-bg {
+      background-size: cover !important;
+      background-position: center !important;
+    }
+  }
+}
+
+@media (max-width: 400px) {
+  mobile-block {
+    display: block;
+  }
+}
+
+/* Mobile Landscape */
+@media (max-height: 500px) {
+  .intertransport-container {
+    max-width: 86% !important;
+  }
+  .main-title {
+    padding: 0 5rem !important;
+    max-width: 100% !important;
+    .wrapper {
+      font-size: 3.5rem !important;
+      &:before {
+        height: 95% !important;
+      }
+    }
+  }
+}

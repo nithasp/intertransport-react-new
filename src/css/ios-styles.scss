@@ -1,0 +1,74 @@
+@supports (-webkit-touch-callout: none) {
+  section .subpage-top-bg {
+    background-position: center !important;
+    background-size: cover !important;
+    background-attachment: scroll !important;
+  }
+
+  .home-section1 {
+    background-position: center !important;
+    background-size: cover !important;
+    background-attachment: scroll !important;
+  }
+
+  .main-title .wrapper,
+  .home-section1 .wrapper .title,
+  .about-us-section2 .title {
+    font-family: "Cloud-Semibold" !important;
+    font-weight: 400 !important;
+    letter-spacing: 0.25rem !important;
+  }
+  .navbar-item2 {
+    -webkit-justify-content: flex-end !important;
+  }
+
+  .our-services-items {
+    .item:nth-child(odd) {
+      .content {
+        padding-left: 3.5rem !important;
+      }
+    }
+    .item:nth-child(even) {
+      .content {
+        padding-right: 1.5rem !important;
+      }
+    }
+  }
+
+  @media (max-width: 576px) {
+    .home-section1 {
+      .wrapper {
+        .title {
+          line-height: 8vh !important;
+          letter-spacing: 0.05rem !important;
+        }
+      }
+    }
+    .home-section2 {
+      .title {
+        .text {
+          letter-spacing: -0.05rem !important;
+        }
+      }
+    }
+    .our-services-items {
+      .item {
+        .content {
+          margin-top: 2rem !important;
+        }
+      }
+      .item:nth-child(odd) {
+        padding-right: 2rem !important;
+        .content {
+          padding-left: 0rem !important;
+        }
+      }
+      .item:nth-child(even) {
+        padding-left: 2rem !important;
+        .content {
+          padding-right: 0rem !important;
+        }
+      }
+    }
+  }
+}
