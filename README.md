@@ -1,46 +1,61 @@
-# Getting Started with Create React App
+# Intertransport Company Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modernized **Intertransport Company Website** built with **React + TypeScript**, converted from a static HTML design into a scalable, component-based architecture.  
+This project is used to **present the company’s services, background, and contact information**, providing a professional online presence with responsive design.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+<p align="center">
+    <a href="https://raw.githubusercontent.com/nithasp/intertransport-react-new/master/screenshots/sc1.jpg" target="_blank">
+    <img src="screenshots/sc1.jpg" width="45%" hspace="5" style="height: 177px"/>
+  </a>
+</p>
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Features
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Corporate website to showcase company profile and services.
+- Responsive and mobile-friendly design.
+- Pages: Home, Intro, About Us, Our Services, Our Clients, Why Us, Contact.
+- Reusable components: Navbar, Footer, Map integration, Lightbox Gallery.
+- Styled Components for modern, maintainable styling.
+- Optimized fonts and images for performance.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
 
-### `npm run build`
+- **React** (with TypeScript)
+- **Styled Components**
+- **CSS**
+- **Custom Components** (Navbar, Footer, LightBoxGallery, Map)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nithasp/intertransport-react-new
+   ```
 
-### `npm run eject`
+2. Navigate to the project directory:
+   ```bash
+   cd intertransport-react-new
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+5. Open your browser at:
+   ```
+   http://localhost:3000
+   ```
